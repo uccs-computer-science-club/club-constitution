@@ -68,11 +68,4 @@ Officers are able to amend this constitution when they reach consensus on the ch
 
 ## Article 9: Compliance
 The UCCSCSC shall comply with all college policies as well as all applicable laws and regulations.  
-All members will value and respect one another.  
-  
-  
-# Current Officers
-*President:* Justin Mason  
-*Vice President:* Jung Bang  
-*Treasurer:* Nathanael Jense  
-*Club Officer:* Kylie Sanchez  
+All members will value and respect one another.
